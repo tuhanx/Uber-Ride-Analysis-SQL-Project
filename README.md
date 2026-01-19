@@ -27,19 +27,27 @@ New variables were created to enable deeper analysis:
 
 ## 🔍 Key Business Questions Answered
 
-### 📊 Generic & Operational Analysis
-1.  **Cancellation Rate:** What is the ratio of completed vs. cancelled rides?
-2.  **Root Cause:** What are the primary reasons for incomplete rides (Driver vs. Customer)?
-3.  **Peak Days:** Which day of the week sees the highest demand?
+### 1️⃣ Generic & Operational Analysis
+* **Cancellation Rate:** What is the ratio of completed vs. cancelled rides?
+* **Root Cause:** What are the primary reasons for incomplete rides (Driver vs. Customer)?
+* **Peak Days:** Which day of the week sees the highest demand?
 
-### 💰 Revenue & Product Analysis
-1.  **Top Earners:** Which vehicle type (e.g., UberXL, Premier) generates the highest revenue?
-2.  **Efficiency:** What is the average price-per-km for each vehicle category?
-3.  **Lost Revenue:** How much revenue is potentially lost due to high cancellation rates?
+### 2️⃣ Product & Vehicle Analysis
+* **Top Earners:** Which vehicle type (e.g., UberXL, Premier) generates the highest revenue?
+* **Cost Efficiency:** What is the average price-per-km for each vehicle category?
 
-### ⏳ Time-Based Analysis
-1.  **Peak Hours:** At what time of day do customers book the most rides?
-2.  **Pricing Dynamics:** Does the average fare increase during night hours (Surge Pricing)?
+### 3️⃣ Sales (Revenue) Analysis
+* **Revenue by Payment:** Which payment method (Cash, Card, UPI) drives the most cash flow?
+* **Revenue Loss:** How much potential revenue is estimated to be lost due to high cancellation rates? *(Critical Financial KPI)*
+* **Top Locations:** Which pickup locations contribute to 80% of the total revenue?
+
+### 4️⃣ Time-Based Analysis
+* **Peak Hours:** At what time of day do customers book the most rides?
+* **Pricing Dynamics:** Does the average fare increase during night hours (Surge Pricing)?
+
+### 5️⃣ Route & Efficiency Analysis
+* **Top Routes:** Which Pickup-Dropoff combinations are the most popular?
+* **Operational Speed (VTAT):** Which vehicle types arrive at the customer location the fastest?
 
 ---
 
